@@ -1,0 +1,8 @@
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\bin\Debug\ArithmeticDelegate.exe.config
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\bin\Debug\ArithmeticDelegate.exe
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\bin\Debug\ArithmeticDelegate.pdb
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\obj\Debug\ArithmeticDelegate.csproj.AssemblyReference.cache
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\obj\Debug\ArithmeticDelegate.csproj.SuggestedBindingRedirects.cache
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\obj\Debug\ArithmeticDelegate.csproj.CoreCompileInputs.cache
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\obj\Debug\ArithmeticDelegate.exe
+D:\Simplilearn\Day-16\Assignments\ArithmeticDelegate\ArithmeticDelegate\obj\Debug\ArithmeticDelegate.pdb
